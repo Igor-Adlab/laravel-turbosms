@@ -1,16 +1,12 @@
 {
-    "name": "uapixart/laravel-turbosms",
-    "description": "TurboSMS package for Laravel",
+    "name": "igor.olshevsky/laravel-turbosms",
+    "description": "Fork of TurboSMS package for Laravel",
     "keywords": ["laravel", "turbosms"],
     "authors": [
         {
-            "name": "Mykola Kuzmich",
-            "email": "ua.pixart@gmail.com",
-            "homepage": "https://www.pixart.com.ua"
-        }
-    ],
-    "description": "Turbosms package for Laravel",
-    "authors": [
+            "name": "Igor Olshevsky",
+            "email": "igor.olshevsky.work@gmail.com"
+        },
         {
             "name": "Mykola Kuzmich",
             "email": "ua.pixart@gmail.com"
@@ -18,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Uapixart\\LaravelTurbosms\\": "src/"
+            "IgorOlshevsky\\LaravelTurbosms\\": "src/"
         }
     },
     "minimum-stability": "dev",
